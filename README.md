@@ -10,4 +10,5 @@ My first Unity game. Any similarities to an already existing one are coincidenta
 5. The fewer Aliens there are, the more frequently they shoot.
 6. Speed was calculated for a balanced game experience.
 7. Shots from both parties are blocked by the bases.
+
 (8.) A lot of love from a newbie game dev was put into this very simple game :)
